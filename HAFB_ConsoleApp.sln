@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HAFB_ConsoleApp", "HAFB_ConsoleApp\HAFB_ConsoleApp.csproj", "{405BE80E-50D7-4C47-A428-41F336E1EF9D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestController", "TestController\TestController.csproj", "{C1C2E686-D217-4ACB-B55F-5AC10F40D1BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{405BE80E-50D7-4C47-A428-41F336E1EF9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{405BE80E-50D7-4C47-A428-41F336E1EF9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{405BE80E-50D7-4C47-A428-41F336E1EF9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{405BE80E-50D7-4C47-A428-41F336E1EF9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1C2E686-D217-4ACB-B55F-5AC10F40D1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C2E686-D217-4ACB-B55F-5AC10F40D1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C2E686-D217-4ACB-B55F-5AC10F40D1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C2E686-D217-4ACB-B55F-5AC10F40D1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAD3CEB2-08DB-494A-A7E2-E9E389784720}
+	EndGlobalSection
+EndGlobal
